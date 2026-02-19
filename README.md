@@ -1,1 +1,1 @@
-Live cgat using Websockets.
+Live chat using Websockets.
